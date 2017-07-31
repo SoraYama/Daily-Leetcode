@@ -39,6 +39,7 @@ var generateParenthesis = function(n) {
   return res;
 };
 ```
+![](no.22.png)
 -------------
 ## Thinking
 + This algorithm is a copy from the highest voted Java version: ![Easy to understand Java backtracking solution](https://discuss.leetcode.com/topic/8724/easy-to-understand-java-backtracking-solution)
