@@ -1,4 +1,4 @@
-No. :
+No. 389:
 ================
 ## Description
 * Given two strings `s` and `t` which consist of only lowercase letters.

@@ -8,23 +8,6 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/app.js"
-        },
-    {
-        "type": "node",
-        "request": "launch",
-        "name": "Launch via NPM",
-        "runtimeExecutable": "npm",
-        "runtimeArgs": [
-            "run-script",
-            "debug"
-        ],
-        "port": 5858
-    },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Launch Program",
             "program": "${file}"
         }
     ]
