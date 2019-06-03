@@ -1,0 +1,48 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+   "editor.fontSize": 13,
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.fontLigatures": true,
+    "javascript.validate.enable": false,
+    "editor.trimAutoWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.associations": {
+        "*.es": "javascriptreact"
+    },
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "workbench.iconTheme": "vs-seti",
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontSize": 14,
+    "editor.renderIndentGuides": true,
+    "markdown.styles": [
+        "/Users/Godric/my-md-css.css"
+    ],
+    "markdown.enableExperimentalExtensionApi": true,
+    "markdown.trace": "verbose",
+
+    // Path to custom stylesheet file (css).
+    "mdmath.style":"/Users/Godric/my-md-css.css",
+
+    // Footnotes in markdown enabled.
+    "mdmath.footnotes": true,
+
+    // 'Table of Contents' generation in markdown enabled.
+    "mdmath.toc.enabled": false,
+
+    // Heading levels included in table of contents.
+    "mdmath.toc.includeLevel": [2,3],
+
+    // Add permalink symbols to headings.
+    "mdmath.toc.permalink": true,
+
+    // Begin adding permalink symbols starting from heading level.
+    "mdmath.toc.permalinkLevel": 2,
+
+    // Add permalink symbol in front of heading.
+    "mdmath.toc.permalinkSymbol": "#",
+
+    "markdown-pdf.outputDirectory": "/Users/Godric/Desktop/",
+    "markdown-pdf.styles": [ "/Users/Godric/my-md-css.css" ]
+}
